@@ -1,0 +1,108 @@
+.navbar
+{
+    height: 770px;
+    width: 400px;
+    background-color: aqua;
+    /* align-items: center; */
+}
+ .nav-head
+ {
+    width: 400px;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+ }
+ .nav-head img
+ {
+    height: 50px;
+    width: 50px;
+    color: white;
+    margin-left: -20px;
+ }
+ .nav-head i
+ {
+    /* height: 25px;
+    width: 25px; */
+    font-size: 27px;
+    color: white;
+
+ }
+ .nav-head i:hover
+ {
+    border: 2px solid gray;
+    background-color: gray;  
+ }
+ .nav-head img:hover
+ {
+    border: 2px solid gray;
+    background-color: gray;  
+ }
+ .nav-main img
+ {
+    height: 500px;
+    width: 400px;
+ }
+ .nav-footer
+ {
+    height: 170px;
+    width: 400px;
+    background-color: black;
+    /* display: flex; */
+ }
+ .nav-option
+ {
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 12px;
+    margin-top: -5px;
+ }
+ .nav-option p
+ {
+    margin-top: 20px;
+    cursor: pointer;
+ }
+ .nav-option p:hover
+ {
+    border: 2px solid gray;
+    background-color: gray;
+    border-radius: 14%;
+ }
+ .button
+ {
+    width: 400px;
+    height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+
+ }
+ .button img
+ {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+ }
+ .button button
+ {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+ }
+ .button i
+ {
+     height: 30px;
+   /* width: 50px; */
+    color: white;
+    font-size: 23px;
+    margin-top: 10px;
+ }
+ .button i:hover
+ {
+    
+    border: 2px solid gray;
+    background-color: gray;
+ }
